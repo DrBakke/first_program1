@@ -1,3 +1,3 @@
 # first_program1
 
-hello and thanks for all the fish
+so long and thanks for all the fish
